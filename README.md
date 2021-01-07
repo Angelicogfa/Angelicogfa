@@ -9,4 +9,10 @@ Aqui no meu repositório você encontrará de tudo um pouco, gosto muito de apre
 
 Atualmente você encontrará bastantes repositorios, então não se assunte se você achar que esta um pouco bagunçado, porque esta!!!! Logo, logo prometo deixar as coisas aqui um pouco mais organizadas. XD
 
+> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicogfa&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angelicogfa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+
 [Meu Linkdin](https://www.linkedin.com/in/guilherme-angelico/)
